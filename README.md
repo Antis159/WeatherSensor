@@ -3,6 +3,7 @@
 For this project to work you need to have an API client ( for example Postman)
 
 Available requests:
+
 1.(GET) https://localhost:44306/sensor
   Returns all weather sensors in running memory. (one sensor is precreated)
  
